@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 😃<br>Soy Camilo Sol, entusiasta de la programación y <br>del diseño grafico, con ganas de aprender cada día mas
+¡Hola! 😃<br>Soy Camilo Sol, entusiasta de la programación y <br>del diseño UX/UI, con ganas de aprender cada día mas
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/camilo_abel1/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWk8vUYjtxNJLiXpl70KrCw) 
